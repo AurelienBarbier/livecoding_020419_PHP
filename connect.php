@@ -1,5 +1,5 @@
 <?php
 
-define('DSN', 'mysql:hostname=;dbname=');
-define('LOGIN', '');
-define('PWD', '');
+define('DSN', 'mysql:hostname=localhost;dbname=checkpoint1');
+define('LOGIN', 'root');
+define('PWD', 'jecode4wcs');
